@@ -8,7 +8,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:srcCompat="@drawable/pics"
+        app:srcCompat="@drawable/logotipo"
         android:scaleType="fitXY"
         android:id="@+id/imageView" />
 </LinearLayout>
